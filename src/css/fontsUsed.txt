@@ -1,0 +1,23 @@
+<link href="https://fonts.googleapis.com/css2?family=Acme&family=Itim&family=Josefin+Sans&family=Kanit:wght@300&family=Mukta:wght@500;600&family=Open+Sans&family=Oswald:wght@300&family=Piazzolla:wght@500&family=Signika:wght@600&family=Titillium+Web&family=Ubuntu&display=swap" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+font-family: 'Acme', sans-serif;
+font-family: 'Itim', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+font-family: 'Oswald', sans-serif;
+font-family: 'Piazzolla', serif;
+font-family: 'Signika', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'Ubuntu', sans-serif;
